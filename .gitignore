@@ -1,0 +1,5 @@
+/target
+
+# Test files
+*.pcap
+*.cap
