@@ -3,3 +3,6 @@
 # Test files
 *.pcap
 *.cap
+
+.idea/
+.vscode/
